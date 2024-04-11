@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prateesh Sulikeri</h1>
 <h3 align="center">A passionate software developer & Data Science Enthusiast from INDIA</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prateesh-sulikeri" alt="prateesh-sulikeri" /></a> </p>
-
 - 🔭 I’m currently working on [XAI Model for Rainfall Predictions](https://github.com/Prateesh-Sulikeri/Rainfall-Prediction-Analysis-of-Machine-Learning-Algorithms-and-Ensemble-Technique)
 
 - 🌱 I’m currently learning **Cloud Computing, Machine Learning and AI, Docker**
