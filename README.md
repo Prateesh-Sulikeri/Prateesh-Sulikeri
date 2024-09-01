@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Prateesh Sulikeri</h1>
-<h3 align="center">A passionate software developer & Data Science Enthusiast from INDIA</h3>
+<h3 align="center">A passionate software developer & Data Science Enthusiast from INDIA 🇮🇳</h3>
 
-- 🔭 I’m currently working on [XAI Model for Rainfall Predictions](https://github.com/Prateesh-Sulikeri/Rainfall-Prediction-Analysis-of-Machine-Learning-Algorithms-and-Ensemble-Technique)
-
-- 🌱 I’m currently learning **Cloud Computing, Machine Learning and AI, Docker**
-
+- 🔭 I’m currently working on My Own Blog Website
+- 🌱 I’m currently learning **Advanced C++, Python, Shell Scripting, Swift Messaging for Banking Applications**, **Cloud Computing**, **Machine Learning and AI**, and **Docker**
 - 👨‍💻 All of my projects are available at [https://prateesh-sulikeri.github.io/portfolio/](https://prateesh-sulikeri.github.io/portfolio/)
-
-- 📝 I regularly write articles on [https://prateesh-sulikeri.github.io/portfolio/](https://prateesh-sulikeri.github.io/portfolio/)
-
+- 📝 I regularly write articles on my [blog site](https://prateesh-sulikeri.github.io/portfolio/)
 - 💬 Ask me about **React, Tailwind CSS, Scikit-learn**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/prateesh-sulikeri-380986227/)
 
-- 📫 How to reach me **https://www.linkedin.com/in/prateesh-sulikeri-380986227/**
+---
+
+**Current Position:** I am currently working at [Xoriant Technologies](https://www.xoriant.com/) on innovative projects and solutions.
+
+**Available for Discussions:** C++, Java, Python, Swift, Backend Technologies
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
