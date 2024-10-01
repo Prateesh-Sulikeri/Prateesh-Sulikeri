@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer & Data Science Enthusiast from INDIA 🇮🇳</h3>
 
 - 🔭 I’m currently working on My Own Blog Website
-- 🌱 I’m currently learning **Advanced C++, Python, Shell Scripting, Swift Messaging for Banking Applications**, **Cloud Computing**, **Machine Learning and AI**, and **Docker**
+- 🌱 I’m currently learning **Advanced C++, Python, Shell Scripting, Swift Messaging for Banking Applications**, **Cloud Computing**, **Machine Learning and AI**
 - 👨‍💻 All of my projects are available at [https://prateesh-sulikeri.github.io/portfolio/](https://prateesh-sulikeri.github.io/portfolio/)
 - 📝 I regularly write articles on my [blog site](https://prateesh-sulikeri.github.io/portfolio/)
 - 💬 Ask me about **React, Tailwind CSS, Scikit-learn**
