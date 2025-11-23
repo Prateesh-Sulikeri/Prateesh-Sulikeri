@@ -30,5 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prateesh-sulikeri&show_icons=true&theme=dark&locale=en" alt="prateesh-sulikeri" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prateesh-sulikeri&theme=dark" alt="prateesh-sulikeri" /></p>
 
