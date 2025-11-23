@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Go, System Design**
 
-- 👨‍💻 All of my projects are available at [https://prateesh-sulikeri-portfolio.vercel.app/](https://prateesh-sulikeri-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://prateesh-sulikeri-portfolio.vercel.app/](https://prateesh-sulikeri-portfolio.vercel.app/all-projects)
 
 - 📝 I regularly write articles on [https://medium.com/@jinxxedcodes](https://medium.com/@jinxxedcodes)
 
