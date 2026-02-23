@@ -105,6 +105,13 @@
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
 </a>
 </p>
+## 📊 My GitHub Data:
 
-
+<div align="center">
+  <img  align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Prateesh-Sulikeri&show_icons=true" />
+  <br/><br/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prateesh-Sulikeri%22" alt="GitHub Streak" />
+  <br/><br/>
+  <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirban94chakraborty&" alt="anirban" />-->
+</div>
 
