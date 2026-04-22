@@ -1,112 +1,77 @@
-<h1 align="center">Hi 👋, I'm Prateesh Sulikeri aka TheJinxxedCoder</h1>
-<h3 align="center">Backend Engineer (Banking & Finance Domain)</h3>
+# Prateesh Sulikeri
 
-- 📍 Based in **Pune, India**
-- 🔭 Currently working on **Distributed Payment Processing System**
-- 🌱 Currently learning **Java, System Design**
-- 👨‍💻 Projects: <a href="https://prateesh-sulikeri-portfolio.vercel.app/all-projects" target="_blank" rel="noreferrer">Portfolio Projects</a>
-- 💬 I'm a tinkerer, developer, minimalist, **Linux nerd (Arch BTW 🤓☝️)** who enjoys building practical tools I personally use
-- 📫 Reach me: **prateesh.sulikeri@outlook.com**
-- 📄 Experience: <a href="https://prateesh-sulikeri-portfolio.vercel.app/know-more" target="_blank" rel="noreferrer">Know More</a>
+### Backend Engineer · Banking & Finance · High-Throughput Systems
+
+📍 Pune, India &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/prateesh-sulikeri/) &nbsp;·&nbsp; [prateesh.sulikeri@outlook.com](mailto:prateesh.sulikeri@outlook.com)
 
 ---
 
-## Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/prateesh-sulikeri/" target="_blank" rel="noreferrer">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
+I build **fault-tolerant, high-availability backend systems** for financial infrastructure. My day-to-day involves FX trade message processing pipelines — systems where correctness, delivery guarantees, and uptime are non-negotiable.
+
+2 years working inside a high-profile private bank, building on a stack most engineers never touch in production: **C++, IBM MQ, IBM DB2, Linux**.
+
+Currently deepening expertise in **distributed systems design** and **Java/Spring Boot** for financial services.
+
+---
+
+## What I Work On
+
+- **Message processing infrastructure** — high-throughput pipelines with guaranteed delivery and fault recovery
+- **Financial backend systems** — FX trade processing, data integrity under concurrent load, low-level C++ performance
+- **Infrastructure & DevOps** — containerised deployments, Kafka-based architectures, cloud-adjacent tooling
+
+---
+
+## Core Stack
+
+<p>
+  <sub><b>Production</b></sub><br>
+  <img src="https://img.shields.io/badge/C++-black?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM%20MQ-black?style=flat-square&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM%20DB2-black?style=flat-square&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux&logoColor=white" />
+</p>
+
+<p>
+  <sub><b>Java ecosystem</b></sub><br>
+  <img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-black?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Security-black?style=flat-square&logo=springsecurity&logoColor=white" />
+</p>
+
+<p>
+  <sub><b>Messaging</b></sub><br>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-black?style=flat-square&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-black?style=flat-square&logo=graphql&logoColor=white" />
+</p>
+
+<p>
+  <sub><b>Data</b></sub><br>
+  <img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-black?style=flat-square&logo=redis&logoColor=white" />
+</p>
+
+<p>
+  <sub><b>Infrastructure</b></sub><br>
+  <img src="https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-black?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-black?style=flat-square&logo=googlecloud&logoColor=white" />
 </p>
 
 ---
 
-## 🧰 Tech Stack
+## Projects
 
-### Programming Languages
+→ [Portfolio](https://prateesh-sulikeri-portfolio.vercel.app/all-projects) &nbsp;·&nbsp; [Experience](https://prateesh-sulikeri-portfolio.vercel.app/know-more)
 
-<p>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-</a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-</a>
-</p>
+---
 
-### Cloud Platforms
 
-<p>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/>
-</a>
-</p>
 
-### Databases & Storage
 
-<p>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://redis.io" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/>
-</a>
-</p>
 
-### DevOps / Infrastructure
 
-<p>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</a>
-</p>
+**Open to full-time backend engineering roles** — fintech, infrastructure, distributed systems.
 
-### Messaging / Streaming
-<p>
-<a href="https://kafka.apache.org" target="_blank" rel="noreferrer">
-  <span style="background-color: white; padding: 6px; border-radius: 6px; display: inline-block;">
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40"/>
-  </span>
-</a>
-</p>
-
-### Environment
-
-<p>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-</a>
-</p>
-
-### Frameworks / APIs / Tools
-
-<p>
-<a href="https://angular.io" target="_blank" rel="noreferrer">
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40"/>
-</a>
-<a href="https://graphql.org" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://postman.com" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-</a>
-</p>
-
-### 📊 My GitHub Data:
-
-<div align="center">
-  <img  align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Prateesh-Sulikeri&show_icons=true" />
-  <br/><br/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prateesh-Sulikeri%22" alt="GitHub Streak" />
-  <br/><br/>
-  <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirban94chakraborty&" alt="anirban" />-->
-</div>
-
+Reach me at [prateesh.sulikeri@outlook.com](mailto:prateesh.sulikeri@outlook.com)
