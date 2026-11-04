@@ -106,21 +106,6 @@ Asynchronous payment orchestration, reliable event delivery and fault-tolerant s
 
 <br/>
 
-### 📚 System Design Textbook — Multi-Agent Content Pipeline
-<a href="https://github.com/Prateesh-Sulikeri/System-design-textbook"><img src="https://img.shields.io/badge/Repository-24292F?style=flat-square&logo=github&logoColor=white" alt="Repository" /></a>
-
-A multi-agent AI pipeline that researches and writes a system design textbook. Four independent pipelines share one research base.
-
-- 📖 **Main Textbook:** researcher → reasoner + educator (parallel) → writer → proofreader → diagramer
-- 📝 **Important Notes:** a standalone quick-reference PDF built for interview prep
-- 🃏 **Flashcards:** a per-chapter study web app with no server required
-- 🧱 **Prerequisites:** an on-demand refresher on background topics
-- 🔀 Mixes cloud models (Claude Sonnet, Haiku) with local models (deepseek-r1, gemma via Ollama)
-
-> **Stack:** `Python` · `Claude` · `Ollama` · `Multi-Agent Orchestration`
-
-<br/>
-
 <table>
 <tr>
 <td width="50%" valign="top">
