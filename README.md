@@ -14,10 +14,10 @@
 
 <p align="center">
   <!-- TODO: replace the LinkedIn, Portfolio and Email links -->
-  <a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/prateesh-sulikeri/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://prateesh-sulikeri-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/Prateesh-Sulikeri?tab=repositories"><img src="https://img.shields.io/badge/Projects-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:sulikeriprateesh7@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
@@ -31,8 +31,8 @@
 
 I build **backend systems and developer products**, with a focus on **reliability**, **distributed systems**, and **practical applications of AI**.
 
-- 🏦 Currently working on **banking & financial infrastructure** at **Xoriant Technologies** — production C++ systems, IBM MQ, IBM DB2, Linux and AWS.
-- ⚙️ Day-to-day: message processing, production defect resolution, performance improvements, fault recovery and settlement system development.
+- 🏦 Currently working on **banking & financial infrastructure** at **Xoriant Technologies** — production Java & C++ systems, IBM MQ, IBM DB2, Linux and AWS.
+- ⚙️ Day-to-day: financial message processing, production defect resolution, performance improvements, fault recovery and settlement system development.
 - 🚀 Outside work: independent products spanning **local-first AI**, **interactive system design education**, **distributed payment processing** and **developer infrastructure**.
 - ☕ Primary backend stack: **Java + Spring Boot**.
 
