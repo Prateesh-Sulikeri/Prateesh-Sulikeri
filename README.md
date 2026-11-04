@@ -10,7 +10,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/prateesh-sulikeri/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://prateesh-sulikeri-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://prateesh-sulikeri-portfolio.vercel.app/all-projects"><img src="https://img.shields.io/badge/Projects-24292F?style=for-the-badge&logo=vercel&logoColor=white" alt="Projects" /></a>
   <a href="https://prateesh-sulikeri-portfolio.vercel.app/know-more"><img src="https://img.shields.io/badge/Know_More-38BDF8?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Know More" /></a>
   <a href="mailto:sulikeriprateesh7@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
