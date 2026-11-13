@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/prateesh-sulikeri/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://prateesh-sulikeri-portfolio.vercel.app/all-projects"><img src="https://img.shields.io/badge/Projects-24292F?style=for-the-badge&logo=vercel&logoColor=white" alt="Projects" /></a>
+  <a href="https://prateesh-sulikeri-portfolio.vercel.app/projects"><img src="https://img.shields.io/badge/Projects-24292F?style=for-the-badge&logo=vercel&logoColor=white" alt="Projects" /></a>
   <a href="https://prateesh-sulikeri-portfolio.vercel.app/about"><img src="https://img.shields.io/badge/Know_More-38BDF8?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Know More" /></a>
   <a href="mailto:sulikeriprateesh7@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -26,13 +26,13 @@
 
 I build **backend systems and developer products**, with a focus on **reliability**, **distributed systems**, and **practical applications of AI**.
 
-- 🏦 Currently working on **banking & financial infrastructure** at **Xoriant Technologies** — production Java & C++ systems, IBM MQ, IBM DB2, Linux and AWS.
+- 🏦 Currently working on **banking & financial infrastructure** at **Xoriant Technologies**: production Java & C++ systems, IBM MQ, IBM DB2, Linux and AWS.
 - ⚙️ Day-to-day: financial message processing, production defect resolution, performance improvements, fault recovery and settlement system development.
 - 🚀 Outside work: independent products spanning **local-first AI**, **interactive system design education**, **distributed payment processing** and **developer infrastructure**.
 - ☕ Primary backend stack: **Java + Spring Boot**.
 
 <p>
-  <a href="https://prateesh-sulikeri-portfolio.vercel.app/know-more">📖 <b>Know more about me →</b></a>
+  <a href="https://prateesh-sulikeri-portfolio.vercel.app/about">📖 <b>Know more about me →</b></a>
 </p>
 
 ---
@@ -57,11 +57,11 @@ I build **backend systems and developer products**, with a focus on **reliabilit
 
 ## 🚀 Selected Projects
 
-### 🎙️ Onsite — Local-first AI Mock Interviews
+### 🎙️ Onsite: Local-first AI Mock Interviews
 <a href="https://github.com/Prateesh-Sulikeri/Onsite"><img src="https://img.shields.io/badge/Repository-24292F?style=flat-square&logo=github&logoColor=white" alt="Repository" /></a>
 <a href="https://prateesh-sulikeri.github.io/Onsite/"><img src="https://img.shields.io/badge/Live_App-22C55E?style=flat-square&logo=githubpages&logoColor=white" alt="Live App" /></a>
 
-An AI-powered interview platform that runs **locally on your own hardware** — interactive technical interviews without buying yet another AI subscription.
+An AI-powered interview platform that runs **locally on your own hardware**. Interactive technical interviews without buying yet another AI subscription.
 
 - 🗣️ Local voice AI for interactive interviewing
 - 📄 Resume analysis & ATS evaluation against job descriptions
@@ -74,7 +74,7 @@ An AI-powered interview platform that runs **locally on your own hardware** — 
 
 <br/>
 
-### 🧩 ScaleCraft — Interactive System Design Lab
+### 🧩 ScaleCraft: Interactive System Design Lab
 <a href="https://github.com/Prateesh-Sulikeri/ScaleCraft"><img src="https://img.shields.io/badge/Repository-24292F?style=flat-square&logo=github&logoColor=white" alt="Repository" /></a>
 <a href="https://www.scale-craft.in/"><img src="https://img.shields.io/badge/Website-22C55E?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
 
@@ -110,7 +110,7 @@ Asynchronous payment orchestration, reliable event delivery and fault-tolerant s
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 JinBo — AI Portfolio Assistant
+### 🤖 JinBo: AI Portfolio Assistant
 <a href="https://jinbo.onrender.com/"><img src="https://img.shields.io/badge/Live_App-22C55E?style=flat-square&logo=render&logoColor=white" alt="Live App" /></a>
 
 Answers questions about my experience, projects and technical background.
@@ -143,7 +143,7 @@ A rate-limited event ingestion pipeline built to hold up under traffic spikes.
 </table>
 
 <p align="center">
-  <a href="https://prateesh-sulikeri-portfolio.vercel.app/all-projects"><img src="https://img.shields.io/badge/See_all_projects_→-38BDF8?style=for-the-badge" alt="See all projects" /></a>
+  <a href="https://prateesh-sulikeri-portfolio.vercel.app/projects"><img src="https://img.shields.io/badge/See_all_projects_→-38BDF8?style=for-the-badge" alt="See all projects" /></a>
 </p>
 
 ---
@@ -169,7 +169,7 @@ A rate-limited event ingestion pipeline built to hold up under traffic spikes.
 
 I'm interested in connecting with engineers, collaborating on open-source projects, and building useful software.
 
-Whether it's **distributed systems**, **backend engineering**, **AI tooling**, or just an interesting technical problem — I'm always up for a good engineering conversation.
+Whether it's **distributed systems**, **backend engineering**, **AI tooling**, or just an interesting technical problem, I'm always up for a good engineering conversation.
 
 <p align="center">
   <a href="https://linkedin.com/in/prateesh-sulikeri/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
